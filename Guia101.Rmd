@@ -1,5 +1,5 @@
 ---
-title: <span style="color:#034A94"> **PROBABILIDAD Y ESTADÍSTICA **</span>  
+title: <span style="color:#b0394a">**Teoría de Probabilidades**</span>
 author: "dgonzalez "
 subtitle: <span style="color:#034A94">**Módulo 1- Unidad 1**</span> 
 output:
@@ -41,11 +41,13 @@ paleta6=c(co1,co2,co3,co4,co5,co7)
 paleta7=c(co1,co2,co3,co4,co5,co6,co7)
 ```
 
+![](img/banner1.png)
+
 # **Guía de aprendizaje**
 
 <br/><br/>
 
-![](img/banner1.png)
+<!-- ![](img/banner1.png) -->
 
 <br/><br/>
 
@@ -73,9 +75,9 @@ En esta unidad se  presenta  la **Metodología Estadística** como  estrategia q
 
 
 
-Tambien se hará especial referencia a la construcción, depuración  y documentación  de las bases de datos, acciones necesarias para un  buen  análisis de datos.
+Tambien se hará especial referencia a reconocer la relación existente entre el planteamiento del problema, el planteamiento de los objetivos y la identificación de las variables que genere propuetas y/o recomendaciones encaminadas a la solución del problema a traves del cumplimiento de los objetivos planteados.
 
-Con este propósito se hará uso del portal **Bases de Datos Abiertos Colombia**,  del lenguaje **R** y su IDE **RStudio**.
+Adicionalmente empezaremos con la instalación del lenguaje estadístico lenguaje **R** y su IDE **RStudio**.
 
 <br/><br/>
 
@@ -83,7 +85,7 @@ Con este propósito se hará uso del portal **Bases de Datos Abiertos Colombia**
 
 <br/>
 
-Al finalizar la unidad los estudiantes estarán  en  capacidad de  RECONOCER los  pasos de la Metodología Estadística y podrán ESTRUCTURAR, LIMPIAR y DOCUMENTAR una  base de datos con  el fin de  garantizar los elementos  necesarios  para  realizar  un  procesamiento  de  datos. Para ello seleccionaran una base de datos. Adicionalmente propondrán un problema que les permita el desarrollo de la Metodológica Estadística. 
+Al finalizar la unidad los estudiantes estarán  en  capacidad de  RECONOCER los  pasos de la Metodología Estadística y podrán CONSTRUIR e IDENTIFICAR lo referente al planteamiento de problemas, objetivos y las variables de interes.  
 
 <br/><br/>
 
@@ -93,7 +95,7 @@ Al finalizar la unidad los estudiantes estarán  en  capacidad de  RECONOCER los
 
 La presente  unidad será desarrollada durante la  primera semana del semestre ( 23 al 29 de enero de 2023). Ademas del material suministrado  se podrá contar con el acompañamiento del profesor en tres sesiones (Lunes, Miércoles y Viernes) y de un monitor. Los documentos requeridos para esta unidad deberán ser entregados a través de la plataforma **Brightspace** hasta el  29 de enero. 
 
-Para alcanzar los objetivos planteados se propone realizar las siguientes actividades:
+Para alcanzar los objetivos planteados se propone realizar la siguiente actividad:
 
 <br/><br/>
 
@@ -112,18 +114,6 @@ Para alcanzar los objetivos planteados se propone realizar las siguientes activi
 
 |Actividad102   | Descripción                    | 
 |:--------------|:-----------------------------  |
-|Individual     |  **Base de datos** : Cada estudiante deberá  buscar una  base de  datos  de su interés,  depuarla  y  documentarla  si es  necesario. A partir de la información  recolectada deberá construir la ficha técnica de  la base. El resultado  de esta actividad deberá se entregado  en **archivo en formato pdf** con  nombre: **actividad102.pdf** |
-| Recurso       | Video: [**Como descargar datos abiertos**](https://www.youtube.com/watch?v=lRftK2mL3Sw) 
-|               | Formato ficha : [**Ficha técnica**](https://dgonxalex80.github.io/pye20222/Ficha.html) |
-|               | Excel |
-|               | RStudio |
-|Fecha          | 29 de enero  2023 |
-|Hora           |  23:59 hora local  |
-
-<br/> 
-
-|Actividad103   | Descripción                    | 
-|:--------------|:-----------------------------  |
 |Individual     |**Instalación de R y RStudio** : Para el  desarrollo  de las  actividades del curso deberán instalar [R CRAN](https://www.r-project.org/) y   [RStudio](https://rstudio.com/). Para su correcta instalación  existen varios videos en  YouTube que le permitirán realizarlo de una manera correcta   | 
 |Recursos       | [Descargar e instalar R y RStudio 2021 -Video Rafa Gonzalez Gouveia](https://www.youtube.com/watch?v=Nmu4WPdJBRo) |
 |               | [R download](https://cran.r-project.org/) |
@@ -141,11 +131,9 @@ Para alcanzar los objetivos planteados se propone realizar las siguientes activi
 
 * Reconocer e identificar los diferentes tipos de variables  y sus respectivas escalas de medición.
 
-* Identificar la estructura de una base de datos
-
 <br/> 
 
-Los entregables completos y enviados dentro de los tiempos establecidos  otorgarán 15 puntos por la actividad101 y 15 puntos por la actividad102, para un  total de 30 puntos. 
+El entregable completo y enviado dentro de los tiempos establecidos  otorgarán un total de 50 puntos. 
 
 
 <br/><br/>
@@ -157,7 +145,6 @@ Los entregables completos y enviados dentro de los tiempos establecidos  otorgar
 | Entregable |  Descripción                    |
 |:--------------|:-----------------------------|
 |**actividad101.pdf** | Documento que contenga: Formulación de problema propuesto, definición  de los objetivos y definición de variables de interés. En este último caso detallar para cada variable su  tipo ( cualitativa o cuantitativa ) y su escala de medición ( nominal, ordinal, de intervalo o de razón).|
-|**actividad102.pdf**| Ficha técnica de  la base seleccionada |
 |||
 |**Fecha** | 29 de enero  2023 |
 |**Hora límite**| 23:59  hora  local|

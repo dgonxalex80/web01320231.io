@@ -25,27 +25,8 @@ navbar:
         - text: "---------"          
         - text: "Guía 1.1"
           href: Guia101.html            
-        - text: "Guía 1.2"
-          href: paguina0.html            
-        - text: "Guía 1.3"
-          href: pagina0.html   
-        - text: "---------"  
-        - text: "Recursos 1.1"
-          href: recurso101.html  
-        - text: "Recursos 1.2"
-          href: pagina0.html  
-        - text: "Recursos 1.3"
-          href: pagina0.html  
-        - text: "---------"            
-        - text: "Monitoria 1"
-          href: pagina0.html  
-        - text: "Taller 1"
-          href: pagina0.html            
-        - text: "---------"          
-        - text: "Introducción a R"
-          href: introduccionR.html
-        - text: "Código 1.1"
-          href: pagina0.html   
+        - text: "recurso 1.1"
+          href: recurso_A.html            
     - text: "Módulo 2"
       menu:
         - text: "Módulo 2"
@@ -54,14 +35,6 @@ navbar:
       menu:
         - text: "Módulo 3"
           href: Modulo3.html
-    - text: "Módulo 4"
-      menu:
-        - text: "Módulo 4"
-          href: Modulo4.html
-    - text: "Módulo 5"
-      menu:
-        - text: "Módulo 5"
-          href: Modulo5.html
   html_document:
     theme: flatly
     css: style.css

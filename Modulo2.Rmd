@@ -1,5 +1,5 @@
 ---
-title: <span style="color:#a391c4">**Probabilidad y Estadística**</span>
+title: <span style="color:#b0394a">**Teoría de Probabilidades**</span>
 author: "dgonzalez "
 subtitle: "2023" 
 output:
